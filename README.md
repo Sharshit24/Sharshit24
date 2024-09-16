@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Sharshit24
+-    I'm learning web development 
 - 👀 I’m interested in Android Development 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on X

@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @Sharshit24<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning DSA<br>💞️ I’m looking to collaborate on X<br>📫 How to reach me X-codec_sumit24
+"C:\Users\verma\Downloads\IMG20250101162821.jpg"
 
 
 ## 🌐 Socials:

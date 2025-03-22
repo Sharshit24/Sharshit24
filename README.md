@@ -11,7 +11,7 @@ I'm a passionate **programmer** and **technology enthusiast** who thrives on lea
 - **Backend Fundamentals**: Building a deeper understanding of backend systems.
 
 ## 🛠️ Skills
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js
 - **Backend**: Node.js, Express.js, Golang
 - **Databases**: MySQL, MongoDB
 - **DevOps**: Docker

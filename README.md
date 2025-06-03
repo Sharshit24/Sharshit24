@@ -23,7 +23,7 @@ I'm open to working on interesting and impactful projects. If you have an idea o
 
 ## 📫 How to Reach Me
 - **Email**: sumitworks.in@gmail.com
-- **LinkedIn**: [Sumit Verma ](www.linkedin.com/in/sumit-verma-431981284)
+- **LinkedIn**: [Sumit Verma ]([www.linkedin.com/in/sumit-verma-431981284](https://www.linkedin.com/in/sumit-verma-431981284/?originalSubdomain=in))
 - **GitHub**: [Sharshit24](https://github.com/Sharshit24)
 
 <!---
